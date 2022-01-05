@@ -24,7 +24,7 @@ except ImportError:
 sistem_operasi = platform.system()
 kecepatan_bicara = 210
 durasi_input = 4
-youtube_loc = '"C:\\Program Files\\Chromium\\chrome_proxy.exe"  --profile-directory="Profile 1" --app-id=agimnkijcaahngcdmfeangaknmldooml'
+youtube_loc = '"C:\\Program Files\\Chromium\\chrome_proxy.exe"  --app-id=agimnkijcaahngcdmfeangaknmldooml'
 whatsapp_loc = "C:\\Users\\Human\\AppData\\Local\\WhatsApp\\WhatsApp.exe"
 telegram_loc = "C:\\Users\\Human\\SomeApps\\Telegram Desktop\\Telegram.exe"
 photoshop_loc = "C:\\Program Files\\Adobe\\Adobe Photoshop 2020\\Photoshop.exe"
@@ -36,10 +36,10 @@ notepad_loc = "C:\\Windows\\System32\\notepad.exe"
 sublimetext_loc = "C:\\Program Files\\Sublime Text\\sublime_text.exe"
 vscode_loc = "C:\\Users\\Human\\SomeApps\\Microsoft VS Code\\Code.exe"
 firefox_loc = "C:\\Program Files\\Mozilla Firefox\\firefox.exe"
-chrome_loc = '"C:\\Program Files\\Chromium\\chrome.exe" --profile-directory="Profile 1"'
+chrome_loc = '"C:\\Program Files\\Chromium\\chrome.exe"'
 vmware_loc = "C:\\Program Files\\VMware\\VMware Workstation\\vmware.exe"
 vm_loc = 'D:\\VIRTUAL MACHINE\\VW\\Kali Linux x64 by Offensive Security\\kali-linux-2021.1-vmware-amd64.vmx'
-music_playlist = "https://www.youtube.com/watch?v=nmA42HuIAjg&list=PLrIk2ryC3CCciEHXOD-aMxx04d6Y9jIlk&index=47"
+music_playlist = "Your Playlist Here"
 
 # PERSIAPAN PROGRAM
 try:
