@@ -1,0 +1,20 @@
+# Speech Recognition
+https://towardsdatascience.com/how-to-build-your-own-ai-personal-assistant-using-python-f57247b4494b
+https://towardsdatascience.com/speech-recognition-in-python-the-complete-beginners-guide-de1dd7f00726
+https://pythonprogramminglanguage.com/speech-recognition/
+https://realpython.com/python-speech-recognition/
+
+# Telebot
+https://www.freecodecamp.org/news/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4/
+https://www.geeksforgeeks.org/create-a-telegram-bot-using-python/
+
+# WikiPedia
+https://www.geeksforgeeks.org/wikipedia-module-in-python/
+
+# GoogleTrans
+https://pypi.org/project/googletrans/
+
+# Text to Speech
+https://www.javatpoint.com/how-to-convert-text-to-speech-in-python
+https://www.geeksforgeeks.org/convert-text-speech-python/
+https://www.thepythoncode.com/article/convert-text-to-speech-in-python

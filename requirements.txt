@@ -1,0 +1,6 @@
+SpeechRecognition
+python-telegram-bot
+pyttsx3
+wikipedia
+requests
+googletrans

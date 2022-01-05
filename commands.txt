@@ -1,0 +1,15 @@
+PERINTAH                           DESKRIPSI
+==============================     =====================================
+What Time Is It                    Waktu saat ini
+What Day Is It                     Hari saat ini
+What Is <Keyword>                  Pencarian WikiPedia
+Search <Keyword> on <Platform>     Searching dengan custom search engine
+Search <Keyword>                   Searching dengan Google
+Where Is <Keyword>                 Mencari tempat dengan Google Maps
+Open/Close <Apps>                  Buka/Tutup aplikasi
+Start/Stop Windows Update          Start/stop layanan Windows Update
+Start Clean Utility                Menjalankan utilitas pembersihan
+Play Music                         Memutar playlist musik
+Pentesting Mode / Fsociety         Keperluan pentesting
+Exit Program                       Menutup program
+Shutdown System	                   Menutup program + mematikan komputer
